@@ -59,6 +59,6 @@ O sistema permite as seguintes operações através de menus:
 5. Manutenibilidade - O sistema apresenta uma documentação clara.
 6. Portabilidade - O sistema é compatível com o sistema operacional Windows.
 
-Licenças Utilizadas
+## Licença
 
 Esse Projeto está sob licença MIT
